@@ -1,5 +1,3 @@
-package Bodlogo2;
-
 import java.io.*;
 class Result {
 
